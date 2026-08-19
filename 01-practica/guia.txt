@@ -1,0 +1,24 @@
+//Anotar todos los pasos  de como configurar la intalacion de git, la creacion del repositorio, como se instalo visualSC, instalacion de maquina virtual y configuracion
+
+Guia de como hacer una maquina virtual y como configurla.
+1. Crear una máquina virtual con VirtualBox y Ubuntu
+Como primer paso descargaremos lo necesario para crear nuestra máquina virtual: VirtualBox y una versión de Ubuntu que sea compatible con nuestro equipo.
+Ejecutaremos VirtualBox y seleccionaremos la opción "Nueva" para comenzar a crear nuestra máquina virtual. Nos solicitará asignarle un nombre y seleccionar 
+la imagen ISO de Ubuntu que descargamos anteriormente.
+Después pasaremos a la configuración de los recursos. Se recomienda asignar aproximadamente 2 GB de RAM, 1 procesador y 27 GB de almacenamiento aunque 
+esto dependerá de los recursos disponibles en nuestro equipo. Es recomendable no asignar todos los recursos de nuestra computadora a la máquina virtual.
+Una vez configurados los recursos, seleccionaremos "Finalizar" e iniciaremos la máquina virtual. Durante la instalación de Ubuntu tendremos que configurar n
+uestro nombre de usuario y contraseña, los cuales utilizaremos para iniciar sesión.
+Al terminar la instalación, iniciaremos sesión en Ubuntu y nuestra máquina virtual estará lista para utilizarse.
+
+2. Crear un repositorio en GitHub
+También necesitaremos crear una cuenta en GitHub utilizando nuestro correo electrónico, contraseña y nombre de usuario.Después de iniciar sesión iremos 
+a nuestro perfil y seleccionaremos "New repository" para crear un nuevo repositorio.
+Le asignaremos un nombre y configuraremos su visibilidad como público también activaremos la opción para crear un archivo README. 
+En .gitignore la dejaremos sin seleccionar y finalmente, seleccionaremos la licencia GNU General Public License 3.0.
+Por último, seleccionaremos "Create repository" y nuestro repositorio estará creado.
+
+3. Instalar Git y conectarlo con Visual Studio Code
+Si ya tenemos instalado Visual Studio Code, solamente necesitaremos instalar Git para poder conectar nuestros proyectos con GitHub.
+Descargaremos la versión de Git correspondiente a nuestro sistema operativo y procesador. Ejecutaremos el instalador y podremos 
+mantener las opciones recomendadas durante la instalación.
