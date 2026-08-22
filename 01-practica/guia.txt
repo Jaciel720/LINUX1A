@@ -24,8 +24,8 @@ Si ya tenemos instalado Visual Studio Code, solamente necesitaremos instalar Git
 Descargaremos la versión de Git correspondiente a nuestro sistema operativo y procesador. Ejecutaremos el instalador y podremos 
 mantener las opciones recomendadas durante la instalación.
 
-4.Para subir un documento a nuestro repositorio debemos de crear una carpeta y un archivo que es el que subiremos, en el tercer icono 
-del menú vendrá una opción para agregar un archivo a nuestro repositorio, deberemos de agregar el archivo y en la barra de arriba pondremos: CREATE guia.txt y daremos COMMITE, pero saldrá un error de credenciales.
+4.Para subir un documento a nuestro repositorio debemos de crear una carpeta y un archivo que es el que subiremos, en el tercer icono del menú vendrá 
+una opción para agregar un archivo a nuestro repositorio, deberemos de agregar el archivo y en la barra de arriba pondremos: CREATE guia.txt y daremos COMMITE, pero saldrá un error de credenciales.
 
 5.Ahora hay que quitar el error de credenciales cuando queremos agregar algo a nuestro repositorio desde el Visual Studio Code, cuando 
 hacemos modificaciones en un archivo ligado a nuestro repositorio nos saldrá un número en el tercer icono del menú. Para quitar el error de credenciales debemos abrir la terminal y agregar las siguientes líneas de código:
