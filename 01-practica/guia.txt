@@ -31,7 +31,7 @@ una opción para agregar un archivo a nuestro repositorio, deberemos de agregar 
 hacemos modificaciones en un archivo ligado a nuestro repositorio nos saldrá un número en el tercer icono del menú. Para quitar el error de credenciales debemos abrir la terminal y agregar las siguientes líneas de código:
 git config --global user.name "First_name Second_name"
 git config --global user.email "YourGmail@.com"
-
+&&
 6.Para actualizar un archivo en nuestro repositorio pondremos en la parte de arriba del COMMITE el siguiente texto: UPDATE guia.txt y 
 ya nos dejará actualizar el documento.
 
